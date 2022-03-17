@@ -1,16 +1,31 @@
-# netflix_clone_sp_v2
-
+# Netflix Clone Ui
 A new Flutter project based on a Netflix clone UI
 
-Packages used: 
-# Assets Scanner
+# 📷 Screenshots
+
+| Mobile - Home Page 1 | Mobile - Home Page 2 |
+|------|-------|
+|<img src="assets/screenshoots/3.jpeg" width="400">|<img src="assets/screenshoots/4.jpeg" width="400">|
+| Mobile - Home Page 3 | Mobile - Home Page 4 |
+|<img src="assets/screenshoots/5.jpeg" width="400">|<img src="assets/screenshoots/6.jpeg" width="400">|
+| Mobile - Splash Page | Mobile - Profile Page |
+|<img src="assets/screenshoots/1.jpeg" width="400">|<img src="assets/screenshoots/2.jpeg" width="400">|
+
+# 🚀 Presentation 
+
+| Mobile - Presentation |
+
+|<img src="assets/screenshoots/.gif" width="400">|
+
+# Packages used: 
+## Assets Scanner
 [![Build Status](https://api.cirrus-ci.com/github/littleGnAl/assets-scanner.svg)](https://cirrus-ci.com/github/littleGnAl/assets-scanner) 
 [![pub package](https://img.shields.io/pub/v/assets_scanner.svg)](https://pub.dev/packages/assets_scanner)
 
 As you know, you need to use the image path to [load image](https://flutter.dev/docs/development/ui/assets-and-images#loading-images-1) in Flutter
 , e.g., `AssetImage('graphics/background.png')`. However, this approach is prone to errors, such as the spelling of the path, you can only find this error after the program runs, and you may not be able to intuitively know which picture this is through the path. Assets Scanner helps you generate constants for assets, reducing the probability of misspellings. At the same time, you can hover over the constants to preview the images more intuitively.
 
-## Usage
+### Usage
 In your `pubspec.yaml`, add the following:
 ```yaml
 dev_dependencies:
@@ -50,7 +65,7 @@ className: "MainAssets"
 ignoreComment: true
 ```
 
-## License
+### License
     Copyright (C) 2020 littlegnal
 
     Licensed under the Apache License, Version 2.0 (the "License");
