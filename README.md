@@ -5,21 +5,21 @@ A new Flutter project based on a Netflix clone UI
 
 | Mobile - Home Page 1 | Mobile - Home Page 2 |
 |------|-------|
-|<img src="assets/screenshoots/3.jpeg" width="400">|<img src="assets/screenshoots/4.jpeg" width="400">|
+|<img src="assets/screenshoots/3.jpeg" width="300">|<img src="assets/screenshoots/4.jpeg" width="300">|
 | Mobile - Home Page 3 | Mobile - Home Page 4 |
-|<img src="assets/screenshoots/5.jpeg" width="400">|<img src="assets/screenshoots/6.jpeg" width="400">|
+|<img src="assets/screenshoots/5.jpeg" width="300">|<img src="assets/screenshoots/6.jpeg" width="300">|
 | Mobile - Splash Page | Mobile - Profile Page |
-|<img src="assets/screenshoots/1.jpeg" width="400">|<img src="assets/screenshoots/2.jpeg" width="400">|
+|<img src="assets/screenshoots/1.jpeg" width="300">|<img src="assets/screenshoots/2.jpeg" width="300">|
 
 # 🚀 Presentation 
 
-| Mobile - Home Page 1 | Mobile - Home Page 2 |
+| Mobile - Presentation 1 | Mobile -Presentation 2 |
 |------|-------|
 |<img src="assets/screenshoots/p1.gif" width="300">|<img src="assets/screenshoots/p2.gif" width="300">|
-| Mobile - Home Page 3 | Mobile - Home Page 4 |
+| Mobile - Presentation 3 | Mobile - Presentation 4 |
 |<img src="assets/screenshoots/p3.gif" width="300">|<img src="assets/screenshoots/p4.gif" width="300">|
-| Mobile - Splash Page | Mobile - Profile Page |
-|<img src="assets/screenshoots/p5.gif" width="300">|<img src="assets/screenshoots/p1.gif" width="300">|
+| Mobile - Presentation 5 |
+|<img src="assets/screenshoots/p5.gif" width="300">|
 
 # Packages used: 
 ## Assets Scanner
