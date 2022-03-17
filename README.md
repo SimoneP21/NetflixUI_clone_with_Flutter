@@ -13,9 +13,13 @@ A new Flutter project based on a Netflix clone UI
 
 # 🚀 Presentation 
 
-| Mobile - Presentation |
-
-|<img src="assets/screenshoots/.gif" width="400">|
+| Mobile - Home Page 1 | Mobile - Home Page 2 |
+|------|-------|
+|<img src="assets/screenshoots/p1.gif" width="300">|<img src="assets/screenshoots/p2.gif" width="300">|
+| Mobile - Home Page 3 | Mobile - Home Page 4 |
+|<img src="assets/screenshoots/p3.gif" width="300">|<img src="assets/screenshoots/p4.gif" width="300">|
+| Mobile - Splash Page | Mobile - Profile Page |
+|<img src="assets/screenshoots/p5.gif" width="300">|<img src="assets/screenshoots/p1.gif" width="300">|
 
 # Packages used: 
 ## Assets Scanner
